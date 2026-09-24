@@ -2,17 +2,31 @@
   {
     "number": 1,
     "status": true,
-    "default_name": "StreamOne",
-    "icon": "ic_stream",
-    "fragment" : "StreamFragment",
-    "filename" : "streamOne.json"
+    "category": 1,
+    "category_name": "Kultivasi",
+    "default_name": "DramaBox",
+    "icon": "ic_streamic_stream",
+    "fragment": "StreamFragment",
+    "filename": "streamOne.json"
   },
   {
     "number": 2,
     "status": true,
-    "default_name": "StreamTwo",
+    "category": 1,
+    "category_name": "Kultivasi",
+    "default_name": "ReelShort",
     "icon": "ic_stream",
-    "fragment" : "StreamFragment",
-    "filename" : "streamOne.json"
+    "fragment": "StreamFragment",
+    "filename": "streamOne.json"
+  },
+  {
+    "number": 3,
+    "status": true,
+    "category": 2,
+    "category_name": "Tools",
+    "default_name": "YT Music Downloader",
+    "icon": "ic_stream",
+    "fragment": "StreamFragment",
+    "filename": "streamOne.json"
   }
 ]
