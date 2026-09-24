@@ -3,7 +3,7 @@
     "number": 1,
     "status": true,
     "default_name": "StreamOne",
-    "icon": "ic_default",
+    "icon": "ic_stream",
     "fragment" : "StreamFragment",
     "filename" : "streamOne.json"
   },
@@ -11,7 +11,7 @@
     "number": 2,
     "status": true,
     "default_name": "StreamTwo",
-    "icon": "ic_default",
+    "icon": "ic_stream",
     "fragment" : "StreamFragment",
     "filename" : "streamOne.json"
   }
