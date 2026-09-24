@@ -29,12 +29,12 @@
     "fragment": "StreamFragment",
     "filename": "streamOne.json"
   },
-  {
+    {
     "number": 4,
     "status": true,
-    "category": 1,
-    "category_name": "Music",
-    "default_name": "Musik Santai",
+    "category": 2,
+    "category_name": "TV Online",
+    "default_name": "TV Lokal",
     "icon": "ic_stream",
     "fragment": "StreamFragment",
     "filename": "streamOne.json"
@@ -43,6 +43,16 @@
     "number": 5,
     "status": true,
     "category": 3,
+    "category_name": "Music",
+    "default_name": "Musik Santai",
+    "icon": "ic_stream",
+    "fragment": "StreamFragment",
+    "filename": "streamOne.json"
+  },
+  {
+    "number": 6,
+    "status": true,
+    "category": 4,
     "category_name": "Custom",
     "default_name": "Stream List",
     "icon": "ic_stream",
