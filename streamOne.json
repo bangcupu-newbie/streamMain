@@ -1,28 +1,34 @@
 {
   "main": "overfetch",
-  "tld": ".video", 
+  "tld": ".video",
   "desc": "test json list",
   "status": true,
   "list": [
     {
-      "name": "zIAF4Z2Mj-wz7c3c2codca",
+      "name": "name A",
+      "sub": "mp4-01",
+      "ext": ".mp4",
+      "url": "https://github.com/",
       "file-name": "zIAF4Z2Mj-wz7c3c2codca",
-      "sub": "mp4-01",
-      "ext": ".mp4",
+      "file-type": "mp4",
       "file-status": true
     },
-   {
-      "name": "zIAF4Z2Mj-wz7c3c2codca",
-     "file-name": "zIAF4Z2Mj-wz7c3c2codca",
+    {
+      "name": "name B",
       "sub": "mp4-01",
       "ext": ".mp4",
+      "url": "https://github.com/",
+      "file-name": "zIAF4Z2Mj-wz7c3c2codca",
+      "file-type": "custom",
       "file-status": true
     },
-   {
-      "name": "zIAF4Z2Mj-wz7c3c2codca",
-     "file-name": "zIAF4Z2Mj-wz7c3c2codca",
+    {
+      "name": "name C",
       "sub": "mp4-01",
       "ext": ".mp4",
+      "url": "https://github.com/",
+      "file-name": "zIAF4Z2Mj-wz7c3c2codca",
+      "file-type": "hls",
       "file-status": true
     }
   ]
